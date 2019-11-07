@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/contrib/RAPIDS/mortgage_2000-2001
+/contrib/RAPIDS/mortgage_2000-2001.tgz
