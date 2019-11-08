@@ -8,7 +8,7 @@ from dask.delayed import delayed
 from dask.distributed import Client, wait
 import xgboost as xgb
 import cudf
-from cudf.dataframe import DataFrame
+from cudf import DataFrame
 from collections import OrderedDict
 import gc
 from glob import glob
